@@ -1,4 +1,4 @@
-<h1>  Hey there<img height="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , Saksham here!!</h1>
+<h1>  Hey <img height="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , Saksham here!!</h1>
 
 <h2>About Me 🚀</h2>
 <br>
