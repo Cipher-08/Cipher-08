@@ -1,5 +1,16 @@
 <h1>  Hey there<img height="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , Saksham here!!</h1>
-
+<style>
+   li{
+    display: flex;
+    list-style: none;
+    width: 50%;
+    /* background-color: lightcoral; */
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: auto;
+}
+   </style>
 <h2>About Me 🚀</h2>
 <br>
 <hr>
@@ -18,7 +29,7 @@
 
 <hr>
    <ul >
-            <li style.list-style "none">
+            <li>
                 <a href="https://github.com/Cipher-08"><img height="45px" src="http://pngimg.com/uploads/github/github_PNG40.png" alt=""></a>
             </li>
             <li>
