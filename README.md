@@ -3,12 +3,24 @@
 <h2>About Me 🚀</h2>
 <br>
 <hr>
-   <img class="image" height="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNiCvQEcbh6JOGeC-g_P3e8DE8VFIvmWuYlbHKSJsYl9m97bnRXpD5Umez0tOBoGU89o&usqp=CAU" alt="">
-            <img class="image" height="90px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="">
+    <ul class="nav-links">
+            <li>
+                <a href="https://github.com/Cipher-08"><img height="45px" src="http://pngimg.com/uploads/github/github_PNG40.png" alt=""></a>
+            </li>
+            <li>
+                <a href="https://twitter.com/Capable108"> <img height="45px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt=""></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/thecapableawasthi_/"><img height="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt=""></a>
+            </li>
+            <li>
+                <a href="https://www.reddit.com/user/Saksham-Awasthi"><img height="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Reddit_glyph_svg-512.png" alt=""></a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/saksham-awasthi-664545202/"><img height="50px" src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.png" alt=""></a>
+            </li>
 
-            <img class="image" height="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVect1rRUk97AbETz7p3DCZ4cl1FZ_LeCepX4uzpjvvej0Wta5NZXVGBefGcuMLLMYYx4&usqp=CAU" alt="">
-            <img class="image" height="70px" src="https://img.icons8.com/color/452/c-programming.png" alt="">
-            <img class="image" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="">
+        </ul>
 <hr>
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 👨‍💻 I am passionate about  Web Dev, Machine Learning & I enjoy learning new things.
