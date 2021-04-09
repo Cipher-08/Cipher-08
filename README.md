@@ -27,7 +27,7 @@
             <li>
                 <a href="https://www.instagram.com/thecapableawasthi_/"><img height="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt=""></a>
             </li>
-            <li>
+            <li style.list-type="none">
                 <a href="https://www.reddit.com/user/Saksham-Awasthi"><img height="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Reddit_glyph_svg-512.png" alt=""></a>
             </li>
             <li>
