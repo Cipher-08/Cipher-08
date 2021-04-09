@@ -6,7 +6,7 @@ About Me 🚀
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cipher-08&theme=highcontrast&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Cipher-08&theme=blue-green&show_icons=true&count_private=true">
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-08">
