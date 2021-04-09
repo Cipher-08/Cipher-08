@@ -18,7 +18,7 @@
 
 <hr>
    <ul >
-            <li>
+            <li style.list-style "none">
                 <a href="https://github.com/Cipher-08"><img height="45px" src="http://pngimg.com/uploads/github/github_PNG40.png" alt=""></a>
             </li>
             <li>
