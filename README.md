@@ -1,4 +1,4 @@
-###  Hey there<img height="60px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , Saksham here!!
+###  Hey there<img height="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , Saksham here!!
 
 About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
