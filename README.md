@@ -3,7 +3,7 @@
 <h2>About Me 🚀</h2>
 <br>
 <hr>
-    <ul class="nav-links">
+   
             <li>
                 <a href="https://github.com/Cipher-08"><img height="45px" src="http://pngimg.com/uploads/github/github_PNG40.png" alt=""></a>
             </li>
@@ -20,7 +20,7 @@
                 <a href="https://www.linkedin.com/in/saksham-awasthi-664545202/"><img height="50px" src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.png" alt=""></a>
             </li>
 
-        </ul>
+      
 <hr>
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 👨‍💻 I am passionate about  Web Dev, Machine Learning & I enjoy learning new things.
