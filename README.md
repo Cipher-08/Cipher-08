@@ -1,8 +1,4 @@
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
+
 
 
 
