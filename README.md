@@ -33,7 +33,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher-08&show_icons=true&locale=en&layout=compact" alt="cipher-08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher-08&show_icons=true&locale=en&layout=compact?theme=onedark" alt="cipher-08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cipher-08&show_icons=true&locale=en" alt="cipher-08" /></p>
 
