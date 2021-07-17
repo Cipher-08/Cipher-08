@@ -2,7 +2,7 @@
 
 
  
- <h2 align="middle"> Hey <img height="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Saksham here!!</h2>
+ <h1 align="middle"> Hey <img height="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Saksham here!!</h1>
 
 <img align="right"  height ="300px" alt="centered image"  src="https://camo.githubusercontent.com/3809a4daf3df0f940f0d3bf60d47b765a7078f61686de2de1c6a818052f8f3a0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323230333436372f73637265656e73686f74732f363131313834332f6c75646b692d6c61706b692d383030783630302e676966">
  
@@ -10,7 +10,7 @@
  
  
 
-<h3 align="center">🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 👨‍💻 I am passionate about Web Dev, Machine Learning & I enjoy learning new things.</h3>
+<h4 align="center">🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 👨‍💻 I am passionate about Web Dev, Machine Learning, Blockchain ,problem solving & I enjoy learning new things or techies ❤️❤️.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher-08&label=Profile%20views&color=0e75b6&style=flat" alt="cipher-08" /> </p>
 
