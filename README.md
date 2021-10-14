@@ -10,7 +10,7 @@
  
  
 
-<h4 align="center">🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 👨‍💻 I am passionate about Web Dev, Machine Learning, Blockchain ,problem solving & I enjoy learning new things or techies ❤️❤️.</h4>
+<h4 align="center">🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering. 👨‍💻 I am passionate about Web Dev, Machine Learning, Blockchain ,problem solving & I enjoy learning new things or techies ❤️❤️.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher-08&label=Profile%20views&color=0e75b6&style=flat" alt="cipher-08" /> </p>
 
