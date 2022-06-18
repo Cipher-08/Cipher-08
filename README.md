@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://twitter.com/sakshamawasthi_" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamawasthi_?logo=twitter&style=for-the-badge" alt="sakshamawasthi_" /></a> </p>
 <p align="left"> <a href="https://www.instagram.com/_sxkshxm__08/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_sxkshxm__08" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">And more:</h3>
 <p align="left">
 <a href="https://codepen.io/cipher-08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="cipher-08" height="30" width="40" /></a>
 <a href="https://dev.to/cipher08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cipher08" height="30" width="40" /></a>
