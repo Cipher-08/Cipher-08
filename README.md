@@ -8,7 +8,7 @@
  
  
  
- 
+ <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" />
 
 <h4 align="center">🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering. 👨‍Web 3.0 and AI are my power and 💻 DevOps ,  Web Dev, Machine Learning, Blockchain ,problem solving & other techs are ❤️❤️.</h4>
 
