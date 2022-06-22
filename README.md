@@ -12,7 +12,7 @@
 
 <h4 align="center">🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering. 👨‍Web 3.0 and AI are my power and 💻 DevOps ,  Web Dev, Machine Learning, Blockchain ,problem solving & other techs are ❤️❤️.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher-08&label=Profile%20views&color=0e75b6&style=flat" alt="cipher-08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cipher-08&label=Profile%20views&color=0e75b6&style=flat" alt="cipher-08" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sakshamawasthi_" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamawasthi_?logo=twitter&style=for-the-badge" alt="sakshamawasthi_" /></a> </p>
 <p align="left"> <a href="https://www.instagram.com/_sxkshxm__08/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_sxkshxm__08" /></a> </p>
