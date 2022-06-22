@@ -28,6 +28,7 @@
 <a href="https://medium.com/@sakshamawasthi1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sakshamawasthi1111" height="30" width="40" /></a>
 </p>
 <hr>
+<img src="https://activity-graph.herokuapp.com/graph?username=Cipher-08r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
 ### 👨‍💻 Programming languages
